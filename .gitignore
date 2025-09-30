@@ -1,0 +1,7 @@
+prototype.md
+
+.venv-bible-shovel/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
